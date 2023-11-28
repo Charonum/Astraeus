@@ -1,8 +1,4 @@
-
-# Astraeus
-
-The new era of Kopernicus.
-
+without context
 
 ## License
 
